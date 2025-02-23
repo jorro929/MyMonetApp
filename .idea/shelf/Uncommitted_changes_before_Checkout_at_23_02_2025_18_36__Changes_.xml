@@ -1,0 +1,1516 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]" date="1740325003548" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 23.02.2025 18:36 [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-classes.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/proto.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/layout_activity_second.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/layout_activity_second.xml.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/dirs_bucket_3/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/outputFiles.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/outputFiles.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/supertypes.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/proto.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-sl_values-sl.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-sl_values-sl.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-xxhdpi_ic_launcher_foreground.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-xxhdpi_ic_launcher_foreground.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-mk_values-mk.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-mk_values-mk.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-large-v4_values-large-v4.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-large-v4_values-large-v4.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-vi_values-vi.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-vi_values-vi.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/id-to-file.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/internal-name-to-source.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_4.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_4.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/internal-name-to-source.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/jar_f36529a8c8fa979bc5e83cf5b129cf8327f4a67940f624573c5e60a654700f1e_bucket_3/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph1.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aeGRm+vH5V4Zy0kGsuLRdiqV5aQ=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/aeGRm+vH5V4Zy0kGsuLRdiqV5aQ=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/file-system.probe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/file-system.probe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/77ejUBB4E0o53aB3dnB+Y7CSDxc=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/77ejUBB4E0o53aB3dnB+Y7CSDxc=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-th_values-th.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-th_values-th.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/drawable_ic_launcher_background.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/drawable_ic_launcher_background.xml.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-be_values-be.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-be_values-be.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/drawable/tails.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/tails.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oYfSA2pH7s+GVLMsToCaZWSk+ms=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/oYfSA2pH7s+GVLMsToCaZWSk+ms=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/xml_backup_rules.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/xml_backup_rules.xml.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6cIkhR7sX5P92uXMaKEmxJlOeqs=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/6cIkhR7sX5P92uXMaKEmxJlOeqs=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_round.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/jKWZ1BlIdPN8ZZTLHCoqmCx1YMw=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/jKWZ1BlIdPN8ZZTLHCoqmCx1YMw=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/jKe0_fmLIPjwJj_fzl3QAFlzHHc=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/jKe0_fmLIPjwJj_fzl3QAFlzHHc=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-mdpi_ic_launcher_round.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-mdpi_ic_launcher_round.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/linked_resources_binary_format/debug/processDebugResources/linked-resources-binary-format-debug.ap_" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/linked-resources-binary-format-debug.ap_" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/supertypes.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-cs_values-cs.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-cs_values-cs.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ka_values-ka.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ka_values-ka.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-it_values-it.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-it_values-it.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-attributes.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-anydpi-v26_ic_launcher_round.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-anydpi-v26_ic_launcher_round.xml.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/classes.dex" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-en-rXC_values-en-rXC.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-en-rXC_values-en-rXC.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-xhdpi_ic_launcher.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-xhdpi_ic_launcher.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-attributes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ar_values-ar.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ar_values-ar.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TMWOra+I+5VXWcwiLl31+cQj_tg=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/TMWOra+I+5VXWcwiLl31+cQj_tg=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/id-to-file.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3o_xwEvI_MtOz0cFRU4Gg8hg+dI=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/3o_xwEvI_MtOz0cFRU4Gg8hg+dI=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_0.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_0.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UbLXdZ1NktxpCM2dwg3LOmFR+YI=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/UbLXdZ1NktxpCM2dwg3LOmFR+YI=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/drawable/start_img.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/start_img.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/jar_f36529a8c8fa979bc5e83cf5b129cf8327f4a67940f624573c5e60a654700f1e_bucket_5/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph2.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lookups.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/xml_data_extraction_rules.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/xml_data_extraction_rules.xml.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-mdpi_ic_launcher.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-mdpi_ic_launcher.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v24_values-v24.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v24_values-v24.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ZxhVOhHCckUNw0hlpI2o18aT7E8=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ZxhVOhHCckUNw0hlpI2o18aT7E8=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-bg_values-bg.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-bg_values-bg.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-bs_values-bs.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-bs_values-bs.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v25_values-v25.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v25_values-v25.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-attributes.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibsInPluginsBlock$BundleAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-et_values-et.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-et_values-et.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_round1.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-pt-rBR_values-pt-rBR.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-pt-rBR_values-pt-rBR.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-attributes.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/package-parts.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v31_values-v31.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v31_values-v31.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-xxxhdpi_ic_launcher.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-xxxhdpi_ic_launcher.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/classes1.dex" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LRmE8l+Tc9u5FbI0nkOgYUcEk+A=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LRmE8l+Tc9u5FbI0nkOgYUcEk+A=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/x6WVOkGIbyI3RtrnIUQQ25xkrzA=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/x6WVOkGIbyI3RtrnIUQQ25xkrzA=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/PLT4tPw7RTPEaVZZF8lMBYdJxps=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/PLT4tPw7RTPEaVZZF8lMBYdJxps=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v18_values-v18.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v18_values-v18.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-hdpi-v4_values-hdpi-v4.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-hdpi-v4_values-hdpi-v4.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/internal-name-to-source.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-xxhdpi_ic_launcher_round.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-xxhdpi_ic_launcher_round.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-fi_values-fi.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-fi_values-fi.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QijSWxMikjrpXjjJBlsVWsS5xYw=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/QijSWxMikjrpXjjJBlsVWsS5xYw=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/drawable_ic_launcher_foreground.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/drawable_ic_launcher_foreground.xml.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-mdpi_ic_launcher_foreground.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-mdpi_ic_launcher_foreground.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/jqwGb9FrwiRLSWa4usd+Ek+H+CE=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/jqwGb9FrwiRLSWa4usd+Ek+H+CE=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-small-v4_values-small-v4.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-small-v4_values-small-v4.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-lo_values-lo.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-lo_values-lo.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/package-parts.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/drawable/eagle.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/eagle.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ko_values-ko.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ko_values-ko.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-sq_values-sq.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-sq_values-sq.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/subtypes.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-classes.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-watch-v21_values-watch-v21.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-watch-v21_values-watch-v21.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/subtypes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/vasiliigrinin/mymonetapp/FlipMethoodKt.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/FlipMethoodKt.dex" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lookups.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/vasiliigrinin/mymonetapp/MainActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/MainActivity.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-fr_values-fr.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-fr_values-fr.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/file-to-id.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_foreground.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/checksums/md5-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/md5-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_round2.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/dex_archive_input_jar_hashes/debug/dexBuilderDebug/out" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/out" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v23_values-v23.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v23_values-v23.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/M+PHiICY7AVYGFCNditAQaWoKy8=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/M+PHiICY7AVYGFCNditAQaWoKy8=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ur_values-ur.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ur_values-ur.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0IVQp8+Q7vjm_KvQuTOMUiz1n5I=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/0IVQp8+Q7vjm_KvQuTOMUiz1n5I=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-fa_values-fa.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-fa_values-fa.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/supertypes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DEsLL1K+VnmgWdoINwAo9pUNBvY=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/DEsLL1K+VnmgWdoINwAo9pUNBvY=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-nl_values-nl.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-nl_values-nl.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-hdpi_ic_launcher_foreground.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-hdpi_ic_launcher_foreground.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/local-state/build-history.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/build-history.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibsInPluginsBlock$VersionAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-pl_values-pl.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-pl_values-pl.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxCoreLibraryAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibs$AndroidxCoreLibraryAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/n8ZP+l9ZfdoGAhhcPbQE9G68DE0=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/n8ZP+l9ZfdoGAhhcPbQE9G68DE0=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinPluginAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibs$KotlinPluginAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-fq-name-to-source.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_foreground1.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_3.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_3.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/vasiliigrinin/mymonetapp/SomeMonetActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/SomeMonetActivity.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-classes.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-anydpi-v26_ic_launcher.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-anydpi-v26_ic_launcher.xml.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/app_debug.kotlin_module" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MBpFyM00NzEUJ6HOGtfYoHlOwkE=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/MBpFyM00NzEUJ6HOGtfYoHlOwkE=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/checksums/checksums.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/checksums.lock" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KotlinPluginAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibsInPluginsBlock$KotlinPluginAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lookups.tab.values" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/subtypes.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oqIUYl+mrltw_xyshcBlvBb4pgM=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/oqIUYl+mrltw_xyshcBlvBb4pgM=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-my_values-my.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-my_values-my.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-port_values-port.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-port_values-port.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/vasiliigrinin/mymonetapp/FlipMethoodKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/FlipMethoodKt.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WO0Nm8aA3yDVrmQlTYl34lzUisw=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/WO0Nm8aA3yDVrmQlTYl34lzUisw=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-hdpi_ic_launcher_round.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-hdpi_ic_launcher_round.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-fr-rCA_values-fr-rCA.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-fr-rCA_values-fr-rCA.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oQGByhhDn2_Zt6vf72AecM_Xf8M=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/oQGByhhDn2_Zt6vf72AecM_Xf8M=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-xxxhdpi_ic_launcher_round.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-xxxhdpi_ic_launcher_round.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-am_values-am.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-am_values-am.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-es-rUS_values-es-rUS.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-es-rUS_values-es-rUS.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/dirs_bucket_0/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph3.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/app_debug.kotlin_module" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/app_debug1.kotlin_module" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-classes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/c4SiqdW4vmYZbozPcjaGu3WTWxg=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/c4SiqdW4vmYZbozPcjaGu3WTWxg=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-hu_values-hu.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-hu_values-hu.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-lv_values-lv.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-lv_values-lv.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-af_values-af.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-af_values-af.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxEspressoLibraryAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibsInPluginsBlock$AndroidxEspressoLibraryAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-gl_values-gl.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-gl_values-gl.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-gu_values-gu.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-gu_values-gu.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/package-parts.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lookups.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/id-to-file.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-uk_values-uk.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-uk_values-uk.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-mr_values-mr.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-mr_values-mr.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxCoreLibraryAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibsInPluginsBlock$AndroidxCoreLibraryAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KxSNgeOhwyOUTZHOmTqO24bY2mI=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/KxSNgeOhwyOUTZHOmTqO24bY2mI=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-km_values-km.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-km_values-km.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NFBDJHj+QMMPgwEzJEBWWVHZmgA=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/NFBDJHj+QMMPgwEzJEBWWVHZmgA=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ro_values-ro.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ro_values-ro.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_foreground2.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/javaResources0" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_1.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_1.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lookups.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/subtypes.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ne_values-ne.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ne_values-ne.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-fq-name-to-source.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/jar_f36529a8c8fa979bc5e83cf5b129cf8327f4a67940f624573c5e60a654700f1e_bucket_2/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph4.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/f0PYEUf8pgqhG7fjMIrwUWhGdVs=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/f0PYEUf8pgqhG7fjMIrwUWhGdVs=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/file-to-id.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JJLGE876YhCmfksE_lfvzfFee00=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/JJLGE876YhCmfksE_lfvzfFee00=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/09SxYZdYItjdL76RBoeSXJKzeoo=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/09SxYZdYItjdL76RBoeSXJKzeoo=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GkgCw8hurlmsZVSJ6twnO7fslZk=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/GkgCw8hurlmsZVSJ6twnO7fslZk=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dW6XTyvhmiJA3Zip2DZlfFOMNGc=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/dW6XTyvhmiJA3Zip2DZlfFOMNGc=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibs$BundleAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/k6HX_E30o0bcwCVxJsV4YOfaW28=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/k6HX_E30o0bcwCVxJsV4YOfaW28=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/se3dJ_0KvJWk2U9wC0RamcQbLNY=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/se3dJ_0KvJWk2U9wC0RamcQbLNY=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/file-to-id.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_round3.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/file-to-id.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/B6Ws6i2Jf8Rs6GDAeAuDYdoHboo=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/B6Ws6i2Jf8Rs6GDAeAuDYdoHboo=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Rpw442nQY3yHv8O8fPkHcZr2RAU=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/Rpw442nQY3yHv8O8fPkHcZr2RAU=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/id-to-file.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CQWJcwH8Uc_fLa4QM9thA_iDndo=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/CQWJcwH8Uc_fLa4QM9thA_iDndo=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-output.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-pt-rPT_values-pt-rPT.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-pt-rPT_values-pt-rPT.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/supertypes.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/processDebugResources/R.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/R.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/internal-name-to-source.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ldltr-v21_values-ldltr-v21.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ldltr-v21_values-ldltr-v21.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ldrtl-v17_values-ldrtl-v17.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ldrtl-v17_values-ldrtl-v17.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibs.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibs.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-pa_values-pa.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-pa_values-pa.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-output.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ezuBVcU5ssPFehwnQebA3xYgIRc=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ezuBVcU5ssPFehwnQebA3xYgIRc=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-zh-rTW_values-zh-rTW.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-zh-rTW_values-zh-rTW.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-fq-name-to-source.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lookups.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-lt_values-lt.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-lt_values-lt.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/vasiliigrinin/mymonetapp/SomeMonetActivity.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/SomeMonetActivity.dex" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/subtypes.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/yWiyPnB6UNUEw3I3x4TKgUFp8ps=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/yWiyPnB6UNUEw3I3x4TKgUFp8ps=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-az_values-az.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-az_values-az.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-is_values-is.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-is_values-is.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hZALrJVQ5Nx4XXEiaFhUlWSH3oA=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/hZALrJVQ5Nx4XXEiaFhUlWSH3oA=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-b+es+419_values-b+es+419.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-b+es+419_values-b+es+419.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/id-to-file.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UpGVts5+B0csCqJ4ZkWt7OVASec=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/UpGVts5+B0csCqJ4ZkWt7OVASec=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-en-rAU_values-en-rAU.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-en-rAU_values-en-rAU.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4wW3T2by9d0uvhzsfUnHSpPOYhE=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/4wW3T2by9d0uvhzsfUnHSpPOYhE=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v22_values-v22.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v22_values-v22.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-kk_values-kk.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-kk_values-kk.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-output.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/F1nq0MG59zfrYEf1JL8kLkjxPdI=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/F1nq0MG59zfrYEf1JL8kLkjxPdI=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-sv_values-sv.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-sv_values-sv.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/package-parts.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-de_values-de.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-de_values-de.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-watch-v20_values-watch-v20.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-watch-v20_values-watch-v20.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher1.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/id-to-file.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-xhdpi_ic_launcher_foreground.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-xhdpi_ic_launcher_foreground.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-en-rCA_values-en-rCA.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-en-rCA_values-en-rCA.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-xxhdpi_ic_launcher.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-xxhdpi_ic_launcher.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/proto.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ms_values-ms.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ms_values-ms.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-h720dp-v13_values-h720dp-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-h720dp-v13_values-h720dp-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-tr_values-tr.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-tr_values-tr.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/id-to-file.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-es_values-es.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-es_values-es.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-sk_values-sk.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-sk_values-sk.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/dirs_bucket_2/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph5.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/internal-name-to-source.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/shrunk-classpath-snapshot.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2dvxRfA6AnYVYI1RuYakXiBAloM=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/2dvxRfA6AnYVYI1RuYakXiBAloM=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hyI5wW5Ucr1t7LUjMs+8vn3oVUI=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/hyI5wW5Ucr1t7LUjMs+8vn3oVUI=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibs$PluginAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_foreground3.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-output.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-land_values-land.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-land_values-land.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/package-parts.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-w400dp-port-v13_values-w400dp-port-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-w400dp-port-v13_values-w400dp-port-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dMJgg7OS8fU5waBqqbzsJY8gPWg=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/dMJgg7OS8fU5waBqqbzsJY8gPWg=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vMQ_RFZ2FdoViKmsgO_bPIS7gY0=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/vMQ_RFZ2FdoViKmsgO_bPIS7gY0=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-classes.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/proto.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v21_values-v21.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v21_values-v21.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher_foreground.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_foreground4.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-xhdpi_ic_launcher_round.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-xhdpi_ic_launcher_round.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/proto.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/metadata.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/metadata.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/dirs_bucket_4/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph6.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-classes.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-hy_values-hy.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-hy_values-hy.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/subtypes.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lK_S5QsBFfNhCVllkw4rVG1ydrQ=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lK_S5QsBFfNhCVllkw4rVG1ydrQ=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/checksums/sha1-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/sha1-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/supertypes.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v28_values-v28.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v28_values-v28.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-attributes.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-zu_values-zu.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-zu_values-zu.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidPluginAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibsInPluginsBlock$AndroidPluginAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-as_values-as.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-as_values-as.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-mn_values-mn.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-mn_values-mn.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/classes2.dex" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-sr_values-sr.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-sr_values-sr.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ml_values-ml.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ml_values-ml.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-attributes.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/androidResources" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.s" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lookups.tab.values.s" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/drawable_eagle.png.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/drawable_eagle.png.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/PJ_7STaTvWIUonX69AeTuvsASlQ=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/PJ_7STaTvWIUonX69AeTuvsASlQ=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-fq-name-to-source.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values_values.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values_values.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-el_values-el.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-el_values-el.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/package-parts.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher_round4.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-en-rGB_values-en-rGB.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-en-rGB_values-en-rGB.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher2.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mQ208F_fx7dmbbyNrJaX6Ro7ZlM=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mQ208F_fx7dmbbyNrJaX6Ro7ZlM=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6vVTcnWKdVQl3DPgAR1qmJVM7+8=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/6vVTcnWKdVQl3DPgAR1qmJVM7+8=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ru_values-ru.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ru_values-ru.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/agMyA4IPtPkgPBDCqKrRJH+sJHc=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/agMyA4IPtPkgPBDCqKrRJH+sJHc=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-si_values-si.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-si_values-si.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher3.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/q+x0MQk6gFXQ+FRHVO2m9iOCSsI=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/q+x0MQk6gFXQ+FRHVO2m9iOCSsI=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-or_values-or.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-or_values-or.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-eu_values-eu.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-eu_values-eu.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/subtypes.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibsInPluginsBlock.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/fileHashes/resourceHashesCache.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/resourceHashesCache.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-zh-rCN_values-zh-rCN.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-zh-rCN_values-zh-rCN.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/merge-state" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v17_values-v17.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v17_values-v17.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/ic_launcher4.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/jar_f36529a8c8fa979bc5e83cf5b129cf8327f4a67940f624573c5e60a654700f1e_bucket_0/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph7.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CdGXWHWVkOhiKg3dtxeK1mv4sNk=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/CdGXWHWVkOhiKg3dtxeK1mv4sNk=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_5.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_5.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-fq-name-to-source.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ja_values-ja.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ja_values-ja.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/internal-name-to-source.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lf94gUDjuc5UTR8BRyG49VOc9Sw=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lf94gUDjuc5UTR8BRyG49VOc9Sw=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-iw_values-iw.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-iw_values-iw.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/last-build.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v26_values-v26.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v26_values-v26.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/HArcj9IFetLzYskAWdkow+vZyZU=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/HArcj9IFetLzYskAWdkow+vZyZU=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-nb_values-nb.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-nb_values-nb.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-hr_values-hr.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-hr_values-hr.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/drawable_start_img.png.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/drawable_start_img.png.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/supertypes.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/apk/debug/app-debug.apk" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/app-debug.apk" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/jar_f36529a8c8fa979bc5e83cf5b129cf8327f4a67940f624573c5e60a654700f1e_bucket_1/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph8.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-kn_values-kn.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-kn_values-kn.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bCrhM0AJM2ei01aAa7RqESHl17k=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/bCrhM0AJM2ei01aAa7RqESHl17k=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-da_values-da.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-da_values-da.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLibraryAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibs$AndroidxLibraryAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lookups.tab.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-en-rIN_values-en-rIN.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-en-rIN_values-en-rIN.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ky_values-ky.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ky_values-ky.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-te_values-te.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-te_values-te.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-night-v8_values-night-v8.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-night-v8_values-night-v8.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/lookups.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLibraryAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibsInPluginsBlock$AndroidxLibraryAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-in_values-in.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-in_values-in.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/dirs_bucket_1/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph9.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/file-to-id.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-classes.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/proto.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-uz_values-uz.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-uz_values-uz.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/package-parts.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/layout_activity_main.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/layout_activity_main.xml.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/layout_activity_some_monet.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/layout_activity_some_monet.xml.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-zh-rHK_values-zh-rHK.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-zh-rHK_values-zh-rHK.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-attributes.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/file-to-id.tab_i.len" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_java_res/debug/mergeDebugJavaResource/base.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/base.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-xlarge-v4_values-xlarge-v4.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-xlarge-v4_values-xlarge-v4.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/B5WIikzPkWNddBp9fTisQTSxEEA=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/B5WIikzPkWNddBp9fTisQTSxEEA=" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ta_values-ta.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ta_values-ta.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-output.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/proto.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxEspressoLibraryAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibs$AndroidxEspressoLibraryAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/vasiliigrinin/mymonetapp/MainActivity.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/MainActivity.dex" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/dirs_bucket_5/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph10.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/mipmap-hdpi_ic_launcher.webp.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/mipmap-hdpi_ic_launcher.webp.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-bn_values-bn.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-bn_values-bn.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-ca_values-ca.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-ca_values-ca.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-v16_values-v16.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-v16_values-v16.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-fq-name-to-source.tab_i" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/supertypes.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/file-to-id.tab" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/drawable_tails.png.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/drawable_tails.png.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-pt_values-pt.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-pt_values-pt.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/jar_f36529a8c8fa979bc5e83cf5b129cf8327f4a67940f624573c5e60a654700f1e_bucket_4/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/graph11.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-hi_values-hi.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-hi_values-hi.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_2.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/cea1af563211c212ffec66ec5e8c0746bd5afe57756ce616180190d89880a5b4_2.jar" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibsInPluginsBlock$PluginAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/class-fq-name-to-source.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-sw_values-sw.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-sw_values-sw.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-tl_values-tl.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-tl_values-tl.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-output.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibs$VersionAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/internal-name-to-source.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mergeDebugResources/values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidPluginAccessors.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/LibrariesForLibs$AndroidPluginAccessors.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".gradle/8.9/fileChanges/last-build.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/last-build1.bin" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_36_[Changes]/source-to-output.tab.len" />
+  </binary>
+</changelist>

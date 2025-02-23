@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color white
+drawable eagle
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable start_img
+drawable tails
+id coinView
+id counterTextView1
+id counterTextView2
+id decrementButton
+id exitButton
+id flipCoinButton
+id incrementButton
+id main
+id mainText
+id onceFlip
+id ownersText
+id someFlip
+id textInput
+layout activity_main
+layout activity_some_monet
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MyMonetApp
+style Theme.MyMonetApp
+xml backup_rules
+xml data_extraction_rules
